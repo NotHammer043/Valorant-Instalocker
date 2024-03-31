@@ -4,7 +4,7 @@
 ```
 pip install requests valclient
 ```
-**BOTH** `instalock.py` and `data.json` are REQUIRED
+**BOTH** `instalock.py` and `data.json` are **REQUIRED**
 
 # Regions
 **Short code** is meant to be used, not Full Name.
