@@ -1,4 +1,3 @@
-![image](https://github.com/NotHammer043/Valorant-Instalocker/assets/107131733/6b522ae6-4821-4a5a-a941-d72222bd1a71)
 # Requirements
 - Python 3.11.x
 ```
