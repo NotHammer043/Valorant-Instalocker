@@ -45,4 +45,4 @@ pip install requests valclient
 | ISO        | 0e38b510-41a8-5780-5e8f-568b2a4f2d6c |
 | CLOVE      | 1dbf2edd-4729-0984-3115-daa5eed44993 |
 
-<video src="https://us-east-1.tixte.net/uploads/cum-cdn.tixte.co/instalock.mp4" width="300" />
+https://github.com/NotHammer043/Valorant-Instalocker/assets/107131733/289f2934-a864-4ec6-a982-68d8930de342
