@@ -42,6 +42,7 @@ pip install requests valclient
 | VIPER      | 707eab51-4836-f488-046a-cda6bf494859 |
 | FADE       | 1b47567f-8f7b-444b-aae3-b0c634622d10 |
 | DEADLOCK   | cc8b64c8-4b25-4ff9-6e7f-37b4da43d235 |
+| GEKKO      | e370fa57-4757-3604-3648-499e1f642d3f |
 | ISO        | 0e38b510-41a8-5780-5e8f-568b2a4f2d6c |
 | CLOVE      | 1dbf2edd-4729-0984-3115-daa5eed44993 |
 
