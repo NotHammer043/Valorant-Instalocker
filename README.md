@@ -46,6 +46,8 @@ pip install requests valclient
 | ISO        | 0e38b510-41a8-5780-5e8f-568b2a4f2d6c |
 | CLOVE      | 1dbf2edd-4729-0984-3115-daa5eed44993 |
 | VYSE       | efba5359-4016-a1e5-7626-b1ae76895940 |
+| TEJO       | b444168c-4e35-8076-db47-ef9bf368f384 |
+| WAYLAY     | df1cb487-4902-002e-5c17-d28e83e78588 |
 
 # Preview
 https://github.com/NotHammer043/Valorant-Instalocker/assets/107131733/289f2934-a864-4ec6-a982-68d8930de342
